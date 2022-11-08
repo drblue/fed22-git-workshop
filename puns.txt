@@ -3,6 +3,8 @@ Me: I Excel at it.
 Boss: Was that a Microsoft Office pun?
 Me: You have my Wörd.
 Boss: You have a bright Outlook.
+Another: The problems with git jokes? Everyone has their own version!
+
 
 Why did the hipster burn his mouth on pizza? 
 Because he ate it before it was cool.
@@ -83,3 +85,4 @@ When I come across a door that says "PUSH", I pull on it first just to make sure
 
 Why did the programmer quit his job?
 Because he didn’t get arrays.
+
