@@ -3,3 +3,9 @@ Me: I Excel at it.
 Boss: Was that a Microsoft Office pun?
 Me: You have my Wörd.
 Boss: You have a bright Outlook.
+
+Me: How many devs does it take to change a lightbuld?
+
+Boss for(i = 0; i < lightbulb; i++) {
+    // NaN;
+}
