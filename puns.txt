@@ -4,6 +4,10 @@ Boss: Was that a Microsoft Office pun?
 Me: You have my Wörd.
 Boss: You have a bright Outlook.
 
+!false - (it's funny because it's true)
+
+Git never rains but Git pours.
+
 I used to work as a programmer for autocorrect….
 Then they fried me for no raisin.
 
