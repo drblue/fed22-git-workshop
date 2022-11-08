@@ -8,3 +8,7 @@ Git never rains but Git pours.
 
 Long fairy tales have a tendency to dragon.
 
+When I come across a door that says "PUSH", I pull on it first just to make sure I don't cause any conflicts.
+
+Why did the programmer quit his job?
+Because he didn’t get arrays.
