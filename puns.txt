@@ -4,4 +4,4 @@ Boss: Was that a Microsoft Office pun?
 Me: You have my Wörd.
 Boss: You have a bright Outlook.
 
-Min första ryckbegäran! (https://github.com/bjorne/git-pa-svenska)
+!false - (it's funny because it's true)
