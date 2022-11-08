@@ -21,3 +21,5 @@ When I come across a door that says "PUSH", I pull on it first just to make sure
 
 Why did the programmer quit his job?
 Because he didn’t get arrays.
+
+When i see a door with a push sign, i pull first to avoid conflicts !!!
