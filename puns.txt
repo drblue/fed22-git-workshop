@@ -5,5 +5,8 @@ Me: You have my Wörd.
 Boss: You have a bright Outlook.
 
 
+=======
+Git never rains but Git pours.
+
 Why did the programmer quit his job?
 Because he didn’t get arrays.
