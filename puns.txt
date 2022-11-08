@@ -4,6 +4,8 @@ Boss: Was that a Microsoft Office pun?
 Me: You have my Wörd.
 Boss: You have a bright Outlook.
 
+Don't leave me haj and DRY
+
 -Why was the JavaScript reality show cancelled after only one episode?
 -People thought it seemed scripted.
 
